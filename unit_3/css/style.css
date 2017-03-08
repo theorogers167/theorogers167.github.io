@@ -1,0 +1,30 @@
+body {
+	background-image: src="image/blue-sky-clouds.jpg"
+}
+
+h1 {
+	color: rgb(255,255,255);
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+}
+
+hr {
+	font-size: 200px
+}
+
+#project1 {
+	color: rgb(255,227,197);
+}
+
+#project2 {
+	color: rgb(100,136,255);
+}
+
+#project3 {
+	color: rgb(113,255,157);
+}
+
+#project4 {
+	color: rgba(255,177,132,.8);
+}
