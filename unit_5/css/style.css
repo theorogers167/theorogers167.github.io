@@ -1,17 +1,17 @@
 .wrapper {
-	background-color: #FFE2B8
+	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
 }
 
 header {
-	background-color: #FFED74
+	background-color: #FFED74;
 	border: 1px black solid;
     padding: 20px;
 }
 
 nav {
-	background-color: #FFED74
+	background-color: #FFED74;
 	border: 1px black solid;
     padding: 20px;
 }
@@ -25,37 +25,37 @@ h1 {
 }
 
 #section1 {
-	background-color: #E89C6C
+	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 100px;
 }
 
 #section2  {
-	background-color: #E89C6C
+	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 100px;
 }
 
 .article1 {
-	background-color: #E89C6C
+	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 10px;
 }
 
 .article2 {
-	background-color: #E89C6D
+	background-color: #E89C6D;
 	border: 1px black solid;
     padding: 20px;
 }
 
 .article3 {
-	background-color: #E89C6E
+	background-color: #E89C6E;
 	border: 1px black solid;
     padding: 20px;
 }
 
 .article4 {
-	background-color: #E89C6F
+	background-color: #E89C6F;
 	border: 1px black solid;
     padding: 20px;
 }
