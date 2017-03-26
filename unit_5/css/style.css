@@ -18,13 +18,19 @@ h1 {
 	text-align: center;
 }
 
-.article 1 {
+#theo {
 	background: #E89C6C
 	border: 1px black solid;
     padding: 20px;
 }
 
-.article 2 {
+.article1 {
+	background: #E89C6C
+	border: 1px black solid;
+    padding: 20px;
+}
+
+.article2 {
 	background-color: #E89C6D
 	border: 1px black solid;
     padding: 20px;
