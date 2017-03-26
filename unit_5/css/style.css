@@ -1,3 +1,9 @@
+.wrapper {
+	background-color: #FFE2B8
+	border: 1px black solid;
+    padding: 20px;
+}
+
 header {
 	background-color: #FFED74
 	border: 1px black solid;
@@ -12,22 +18,28 @@ nav {
 
 h1 {
 	font-family: Arial;
-	color: rgb(255,255,255);
+	color: rgb(0,0,0);
 	text-decoration: underline;
 	font-weight: bold;
 	text-align: center;
 }
 
-#theo {
-	background: #E89C6C
+#section1 {
+	background-color: #E89C6C
 	border: 1px black solid;
-    padding: 20px;
+    padding: 100px;
+}
+
+#section2  {
+	background-color: #E89C6C
+	border: 1px black solid;
+    padding: 100px;
 }
 
 .article1 {
-	background: #E89C6C
+	background-color: #E89C6C
 	border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
 }
 
 .article2 {
@@ -36,13 +48,13 @@ h1 {
     padding: 20px;
 }
 
-.article 3 {
+.article3 {
 	background-color: #E89C6E
 	border: 1px black solid;
     padding: 20px;
 }
 
-.article 4 {
+.article4 {
 	background-color: #E89C6F
 	border: 1px black solid;
     padding: 20px;
@@ -50,12 +62,6 @@ h1 {
 
 footer {
 	background-color: #FF957E
-	border: 1px black solid;
-    padding: 20px;
-}
-
-.wrapper {
-	background-color: #FFE2B8
 	border: 1px black solid;
     padding: 20px;
 }
@@ -68,12 +74,12 @@ p {
 	border-bottom: 3px solid red; 
 }*/
 
-#project1 {
+/*#project1 {
 	color: rgb(255,227,197);
 	/* margin-bottom: 50px; */
 }
 
-#project2 {
+/*#project2 {
 	color: rgb(100,136,255);
 }
 
