@@ -30,16 +30,29 @@ h1 {
     padding: 20px;
 }
 
-.article1 {
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#article1 {
 	background-color: #E582A2;
 	border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 30%;
 }
 
-.article2 {
+#article2 {
 	background-color: #E55B88;
 	border: 1px black solid;
     padding: 20px;
+    float: right;
+    width: 30%;
 }
 
 #section2  {
@@ -48,16 +61,20 @@ h1 {
     padding: 20px;
 }
 
-.article3 {
+#article3 {
 	background-color: #E89C6E;
 	border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 30%;
 }
 
-.article4 {
+#article4 {
 	background-color: #E89C6F;
 	border: 1px black solid;
     padding: 20px;
+    float: right;
+    width: 30%;
 }
 
 footer {
