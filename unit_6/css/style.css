@@ -30,29 +30,20 @@ h1 {
     padding: 20px;
 }
 
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
-
 #article1 {
 	background-color: #E582A2;
 	border: 1px black solid;
     padding: 20px;
-    float: left;
-    width: 30%;
+    display: inline-block;
+    width: 45%;
 }
 
 #article2 {
 	background-color: #E55B88;
 	border: 1px black solid;
     padding: 20px;
-    float: right;
-    width: 30%;
+    display: inline-block;
+    width: 45%;
 }
 
 #section2  {
@@ -65,16 +56,16 @@ h1 {
 	background-color: #E89C6E;
 	border: 1px black solid;
     padding: 20px;
-    float: left;
-    width: 30%;
+    display: inline-block;
+    width: 45%;
 }
 
 #article4 {
 	background-color: #E89C6F;
 	border: 1px black solid;
     padding: 20px;
-    float: right;
-    width: 30%;
+    display: inline-block;
+    width: 45%;
 }
 
 footer {
