@@ -80,7 +80,7 @@ p {
 
 @media only screen and (max-width: 780px) {
 	#article1, #article2, #article3, #article4 {
-	float: none;
+	float: center;
 	width: auto;
 	}
 }
