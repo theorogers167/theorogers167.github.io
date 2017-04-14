@@ -31,7 +31,7 @@ h1 {
 }
 
 #article1 {
-	background-image: url (../image/615x274_light-duty-uk-1.jpg);
+	background-image: url ('../image/615x274_light-duty-uk-1.jpg');
 	border: 1px black solid;
     padding: 20px;
     display: inline-block;
